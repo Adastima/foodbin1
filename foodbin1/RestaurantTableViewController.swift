@@ -143,7 +143,7 @@ class RestaurantTableViewController: UITableViewController {
         }
         
         
-        // Set the icon and background color for the actions
+        // Set the icon and background color for the actions 
         deleteAction.backgroundColor = UIColor(red: 231.0/255.0, green: 76.0/255.0, blue: 60.0/255.0, alpha: 1.0)
         deleteAction.image = UIImage(systemName: "trash")
         
